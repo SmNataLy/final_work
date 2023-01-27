@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\final_work\Atask\bin\Debug\net6.0\Atask.exe
+C:\Users\user\Desktop\final_work\Atask\bin\Debug\net6.0\Atask.deps.json
+C:\Users\user\Desktop\final_work\Atask\bin\Debug\net6.0\Atask.runtimeconfig.json
+C:\Users\user\Desktop\final_work\Atask\bin\Debug\net6.0\Atask.dll
+C:\Users\user\Desktop\final_work\Atask\bin\Debug\net6.0\Atask.pdb
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.AssemblyInfo.cs
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.dll
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\refint\Atask.dll
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.pdb
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\Atask.genruntimeconfig.cache
+C:\Users\user\Desktop\final_work\Atask\obj\Debug\net6.0\ref\Atask.dll
