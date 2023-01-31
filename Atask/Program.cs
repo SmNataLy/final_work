@@ -3,7 +3,6 @@ Console.WriteLine("Введите массив строк через пробе�
 string stroka = Console.ReadLine();
 array = stroka.Split(' ');
 string[] newarray = new string[array.Length];
-
 void FillArray(string[] array, string[] newarray)
 {
     int count = 0;
